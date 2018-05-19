@@ -1,0 +1,15 @@
+urlid localhost-hib
+url jdbc:hsqldb:hsql://localhost/testhib
+username SA
+password
+
+urlid localhost-jpa
+url jdbc:hsqldb:hsql://localhost/testjpa
+username SA
+password
+
+urlid localhost-jpahib
+url jdbc:hsqldb:hsql://localhost/testjpahib
+username SA
+password
+
